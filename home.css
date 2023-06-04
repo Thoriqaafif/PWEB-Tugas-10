@@ -1,0 +1,36 @@
+.home-head{
+    margin-bottom:20px;
+    justify-content: center;
+}
+
+.home-head-content{
+    display: flex;
+    justify-content: center;
+}
+
+h1, h3{
+    color: black;
+}
+
+.btn{
+    margin:0px 5px 0px 5px;
+}
+
+.form-box{
+    border:solid 100px;
+    border-radius: 5px;
+    display: flex;
+    padding:20px;
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form{
+    background-color: #efefef;
+    top:0;
+    display:flex;
+    justify-content: center;
+    vertical-align: center;
+    height:100%;
+}
